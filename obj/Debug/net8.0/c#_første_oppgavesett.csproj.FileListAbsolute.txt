@@ -12,3 +12,4 @@ C:\Users\joach\Desktop\c#_første_oppgavesett\obj\Debug\net8.0\refint\c#_første
 C:\Users\joach\Desktop\c#_første_oppgavesett\obj\Debug\net8.0\c#_første_oppgavesett.pdb
 C:\Users\joach\Desktop\c#_første_oppgavesett\obj\Debug\net8.0\c#_første_oppgavesett.genruntimeconfig.cache
 C:\Users\joach\Desktop\c#_første_oppgavesett\obj\Debug\net8.0\ref\c#_første_oppgavesett.dll
+C:\Users\joach\Desktop\c#_første_oppgavesett\obj\Debug\net8.0\c#_første_oppgavesett.sourcelink.json

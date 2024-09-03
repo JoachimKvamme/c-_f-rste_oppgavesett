@@ -39,5 +39,19 @@ class Program
             
         }
 
+        // Oppgave 3, ekstraoppgaver
+
+        Dictionary<int, string> myDictionary = new Dictionary<int, string>();
+
+        myDictionary.Add(1, "en");
+        myDictionary.Add(2, "to");
+        myDictionary.Add(3, "tre");
+        myDictionary.Add(4,"fire");
+
+        foreach (var item in myDictionary)
+        {
+            Console.WriteLine(item);
+        }
+
     }
 }
