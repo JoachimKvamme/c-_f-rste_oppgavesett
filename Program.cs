@@ -1,4 +1,6 @@
-﻿namespace c__første_oppgavesett;
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace c__første_oppgavesett;
 
 class Program
 {
@@ -53,5 +55,17 @@ class Program
             Console.WriteLine(item);
         }
 
+        myAdditionMethod(5, 5);
+        myWelcomeMessage("Jørgen");
+
+    }
+
+    // Metode som legger sammen to tall og skriver dem til konsollen.
+    static void myAdditionMethod(int a, int b) {
+        Console.WriteLine(a + b);
+    }
+    // Metode som tar en string, helst et navn, og skriver en hilsen i konsollen.
+    static void myWelcomeMessage(string name) {
+        Console.WriteLine("Heihei " + name + "!");
     }
 }
