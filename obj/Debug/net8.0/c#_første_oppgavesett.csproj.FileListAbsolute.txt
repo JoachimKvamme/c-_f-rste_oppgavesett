@@ -1,0 +1,14 @@
+C:\Users\joach\Desktop\c#_første_oppgavesett\bin\Debug\net8.0\c#_første_oppgavesett.exe
+C:\Users\joach\Desktop\c#_første_oppgavesett\bin\Debug\net8.0\c#_første_oppgavesett.deps.json
+C:\Users\joach\Desktop\c#_første_oppgavesett\bin\Debug\net8.0\c#_første_oppgavesett.runtimeconfig.json
+C:\Users\joach\Desktop\c#_første_oppgavesett\bin\Debug\net8.0\c#_første_oppgavesett.dll
+C:\Users\joach\Desktop\c#_første_oppgavesett\bin\Debug\net8.0\c#_første_oppgavesett.pdb
+C:\Users\joach\Desktop\c#_første_oppgavesett\obj\Debug\net8.0\c#_første_oppgavesett.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joach\Desktop\c#_første_oppgavesett\obj\Debug\net8.0\c#_første_oppgavesett.AssemblyInfoInputs.cache
+C:\Users\joach\Desktop\c#_første_oppgavesett\obj\Debug\net8.0\c#_første_oppgavesett.AssemblyInfo.cs
+C:\Users\joach\Desktop\c#_første_oppgavesett\obj\Debug\net8.0\c#_første_oppgavesett.csproj.CoreCompileInputs.cache
+C:\Users\joach\Desktop\c#_første_oppgavesett\obj\Debug\net8.0\c#_første_oppgavesett.dll
+C:\Users\joach\Desktop\c#_første_oppgavesett\obj\Debug\net8.0\refint\c#_første_oppgavesett.dll
+C:\Users\joach\Desktop\c#_første_oppgavesett\obj\Debug\net8.0\c#_første_oppgavesett.pdb
+C:\Users\joach\Desktop\c#_første_oppgavesett\obj\Debug\net8.0\c#_første_oppgavesett.genruntimeconfig.cache
+C:\Users\joach\Desktop\c#_første_oppgavesett\obj\Debug\net8.0\ref\c#_første_oppgavesett.dll
